@@ -6,18 +6,22 @@ Utilising HTML/CSS/JS.
 
 Project revolves around making a basic "Task List"; Along with the following requirements:
 
-- [ ] User must be able to input a task.
+- [x] User must be able to input a task.
 
-- [ ] User must be able to add a task by using the keyboard Enter key or by clicking a button.
+- [x] User must be able to add a task by using the keyboard Enter key or by clicking a button.
 
-- [ ] User’s task must appear on the web page in a structured way.
+- [x] User’s task must appear on the web page in a structured way.
 
-- [ ] User must be able to check off a task when completed.
+- [x] User must be able to check off a task when completed.
 
-- [ ] User should have visual confirmation that a task is completed.
+- [x] User should have visual confirmation that a task is completed.
 
-- [ ] User must be shown an error message if they do not enter a task correctly.
+- [x] User must be shown an error message if they do not enter a task correctly.
 
-- [ ] Company brand guidelines must be followed.
+- [x] Company brand guidelines must be followed.
 
-- [ ] Task list page must be visually appealing and functional on both desktop and mobile devices.
+- [x] Task list page must be visually appealing and functional on both desktop and mobile devices.
+
+## Notice
+
+Files found under `/transcripts` are provided and owned by IBM from their SkillsBuild program for Web Development Fundamentals.
